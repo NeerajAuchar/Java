@@ -1,0 +1,7 @@
+127.0.0.1 - - [01/Jun/2023:13:19:06 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [01/Jun/2023:13:19:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jun/2023:13:19:33 +0530] "GET /neeraj/indiex.html HTTP/1.1" 200 288
+0:0:0:0:0:0:0:1 - - [01/Jun/2023:13:19:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Jun/2023:13:19:41 +0530] "GET /neeraj/login?id=neeraj&pwd=ioit HTTP/1.1" 200 35
+0:0:0:0:0:0:0:1 - - [01/Jun/2023:13:19:53 +0530] "GET /neeraj/login?id=aissms&pwd=ioit HTTP/1.1" 200 40
+0:0:0:0:0:0:0:1 - - [01/Jun/2023:13:20:39 +0530] "GET /neeraj/login?id=aissms&pwd=ioit HTTP/1.1" 200 40
